@@ -442,6 +442,6 @@ select,input{
     .pictureShow img{
         width: 16.45vw;
     height: 13.16vw;
-    object-fit: none;
+  ;
     }
    }

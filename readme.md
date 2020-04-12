@@ -3,8 +3,10 @@
 ## 姓名：陆勇雍  
 ## 学号：19302010034
 ------------------
-## Github地址：  https://github.com/Kn1ghtZ
-## Github Pages地址：
+## Github地址：  
+### https://github.com/Kn1ghtZ
+## Github Pages地址：  
+### https://kn1ghtz.github.io/PJ1_Luyongyong/
 -------------------
 ## 项目完成情况： 
 ### 要求均完成

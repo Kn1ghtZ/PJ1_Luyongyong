@@ -345,8 +345,9 @@ font-size: 0.9vw;
 }
 
 .pictureShow img {
-    width: 16.45vw;
-    height: 13.16vw;
+    /* width: 16.45vw;
+    height: 13.16vw; */
+    object-fit: cover;
 }
 
 .pictureShow li:nth-child(3n) {
@@ -436,3 +437,11 @@ a {
 select,input{
     outline: none;
 }
+
+@media screen and (max-width:1200px){
+    .pictureShow img{
+        width: 16.45vw;
+    height: 13.16vw;
+    object-fit: none;
+    }
+   }
